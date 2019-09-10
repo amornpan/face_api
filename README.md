@@ -12,4 +12,5 @@ a simple face_api create with flask.
 - git status : for check status and the list of uncommit files.
 - sudo git add. : ready commit.
 - sudo git commit -m "Firt commit" :commit code
-- sudo git remote add origin git@github.com:amornpan/face_api.git
+- sudo git remote add origin git@github.com:amornpan/face_api.git :create remote repository.
+- git remote -v :check remote repository.
