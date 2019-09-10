@@ -6,6 +6,8 @@ a simple face_api create with flask.
 - To decativate the virtual environment and use your original Python environment, simply type "deactivate".
 - Install reqirements.txt: sudo pip install -r requirements.txt
 - check package with $ pip list Package Version
-<br>
-- Github:
-- sudo git init
+
+- Github: 
+- sudo git init : initial project.
+- git status : for check status and the list of uncommit files.
+
