@@ -10,4 +10,5 @@ a simple face_api create with flask.
 - Github: 
 - sudo git init : initial project.
 - git status : for check status and the list of uncommit files.
-
+- sudo git add. : ready commit.
+- sudo git commit -m "Firt commit" :commit code
