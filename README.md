@@ -16,7 +16,7 @@ a simple face_api create with flask.
 - sudo git remote add origin git@github.com:amornpan/face_api.git
 - git remote -v :check remote repository.
 
-
+- git pull --rebase.
 (env_face_api) (base) testbedAC00sMBP:env_face_api Anthony$ git pull
 error: cannot open .git/FETCH_HEAD: Permission denied
 - sudo chmod -R 777 face_api/
