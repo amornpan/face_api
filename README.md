@@ -22,3 +22,6 @@ error: cannot open .git/FETCH_HEAD: Permission denied
 - sudo chmod -R 777 face_api/
 
 git rm -r --cached .  : toclearall
+
+
+sudo git push -u origin master
